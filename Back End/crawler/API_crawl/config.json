@@ -1,0 +1,15 @@
+{
+	"rules":{
+		"username": "root",
+		"password": "12345678",
+		"host": "localhost",
+		"port": "3306",
+		"dbname": "deepfakes",
+		"tablename": "spider"
+	},
+	"crawlServer":{
+		"ip":"192.168.247.130",
+		"port":"6800",
+		"project":"deepfakesfinder"
+	}
+}
